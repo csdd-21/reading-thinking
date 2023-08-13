@@ -23,3 +23,7 @@
 
 * [REGEX](base/regex.md)
 * [COMPUTER BASE](base/computer-base.md)
+
+## STORY
+
+* [Page](story/page.md)
