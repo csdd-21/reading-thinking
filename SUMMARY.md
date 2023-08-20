@@ -15,7 +15,8 @@
 
 ## EFFICIENCY
 
-* [GIT](efficiency/git.md)
+* [GIT](efficiency/git/README.md)
+  * [Operation scenarios](efficiency/git/operation-scenarios.md)
 * [CHROME](efficiency/chrome.md)
 * [VSCODE](efficiency/vscode.md)
 
