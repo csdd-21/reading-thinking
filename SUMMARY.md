@@ -1,30 +1,9 @@
 # Table of contents
 
-## frame
-
-* [VUE](README.md)
-* [REACT](frame/react.md)
-* [UNIAPP](frame/uniapp.md)
-* [WX](frame/wx.md)
-
-## FOUNDATION
-
-* [JAVASCRIPT](foundation/javascript.md)
-* [TYPESCRIPT](foundation/typescript.md)
-* [CSS](foundation/css.md)
-
-## EFFICIENCY
-
-* [GIT](efficiency/git/README.md)
-  * [Operation scenarios](efficiency/git/operation-scenarios.md)
-* [CHROME](efficiency/chrome.md)
-* [VSCODE](efficiency/vscode.md)
-
-## BASE
-
-* [REGEX](base/regex.md)
-* [COMPUTER BASE](base/computer-base.md)
-
 ## STORY
 
-* [Page](story/page.md)
+* [Page](README.md)
+  * [August](story/page/august.md)
+  * [September](story/page/september.md)
+  * [October](story/page/october.md)
+  * [November](story/page/november.md)
